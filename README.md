@@ -1,3 +1,3 @@
 # opentelemetry-tracing
 
-Learning tracing here.
+Learning distributed tracing here.
